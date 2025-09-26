@@ -5,7 +5,7 @@
 => State holo component er nijer memory, ja component update korte pare,
    Props holo parent theke child component e data pathanor upay.
 
-# What is the useState hook, and how does it work?  
+# What is the useState hook, and how does it work?   
 => useSrare hook ja diye function component dara rakha r poriborton kora jay. akta man r sei man update korar function return kore.
 
 # How can you share state between components in React?

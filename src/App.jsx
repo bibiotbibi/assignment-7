@@ -54,7 +54,7 @@ const [resolvedCount, setResolvedCount] = useState(0);
           </div>
           <button className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white">
             <img src={navImg} alt="" />
-            New Ticket</button>
+            New Ticket</button> 
         </div>
       </div>
       <section className='grid grid-cols-1 md:grid-cols-2 gap-7 max-w-[1200px] mx-auto mt-20 mb-20'>
