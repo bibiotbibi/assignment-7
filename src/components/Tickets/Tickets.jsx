@@ -29,7 +29,7 @@ const Tickets = ({ ticketsPromise, setInprogressCount ,setResolvedCount}) => {
     }, [ticketsPromise]);
 
 
-    
+     
     const [taskTickets, setTaskTickets] = useState([]);
 
     const [resolvedTickets, setResolvedTickets] = useState([]);
