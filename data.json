@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "ticketNumber": "#1001",
+    "title": "Login issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "Alice",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/05"
+  },
+  {
+    "id": 2,
+    "ticketNumber": "#1002",
+    "title": "Payment failed",
+    "description": "Customer reported payment gateway failure.",
+    "customer": "Bob",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/07"
+  },
+  {
+    "id": 3,
+    "ticketNumber": "#1003",
+    "title": "UI bug",
+    "description": "UI glitch observed in dashboard page.",
+    "customer": "Charlie",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025/09/02"
+  },
+  {
+    "id": 4,
+    "ticketNumber": "#1004",
+    "title": "Slow performance",
+    "description": "System performance slows down under heavy load.",
+    "customer": "David",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/10"
+  },
+  {
+    "id": 5,
+    "ticketNumber": "#1005",
+    "title": "Feature request",
+    "description": "Request for adding a new reporting feature.",
+    "customer": "Eve",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025/09/01"
+  },
+  {
+    "id": 6,
+    "ticketNumber": "#1006",
+    "title": "Crash on startup",
+    "description": "Application crashes on startup for some users.",
+    "customer": "Frank",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025/09/08"
+  },
+  {
+    "id": 7,
+    "ticketNumber": "#1007",
+    "title": "Email not delivered",
+    "description": "Emails not delivered to recipients.",
+    "customer": "Grace",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025/09/06"
+  },
+  {
+    "id": 8,
+    "ticketNumber": "#1008",
+    "title": "Data sync error",
+    "description": "Data sync issue between server and client.",
+    "customer": "Hannah",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025/09/11"
+  },
+  {
+    "id": 9,
+    "ticketNumber": "#1009",
+    "title": "Password reset not working",
+    "description": "Password reset functionality is broken.",
+    "customer": "Ivy",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025/09/09"
+  },
+  {
+    "id": 10,
+    "ticketNumber": "#1010",
+    "title": "Mobile app freeze",
+    "description": "Mobile app freezes when accessing profile page.",
+    "customer": "Jack",
+    "priority": "High",
+    "status": "Closed",
+    "createdAt": "2025/09/03"
+  },
+  {
+    "id": 11,
+    "ticketNumber": "#1011",
+    "title": "Dark mode request",
+    "description": "Request to implement dark mode for better UX.",
+    "customer": "Alice",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025/09/12"
+  },
+  {
+    "id": 12,
+    "ticketNumber": "#1012",
+    "title": "API timeout",
+    "description": "API requests timing out intermittently.",
+    "customer": "David",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025/09/04"
+  }
+]
